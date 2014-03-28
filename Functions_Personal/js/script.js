@@ -13,8 +13,8 @@ var logItem = function (item) {
     console.log(item);
 };
 //list order
-var listOfThings = ["soap", "candle", "deer", "wine", "bread"];
-var anotherListOfThings = ["grapes", "apples", "beer", "pizza"];
+var listOfThings = ["Bow", "Gun", "deer", "wine", "muffin"];
+var anotherListOfThings = ["hunt", "eat", "beer", "pizza"];
 
 forEach(listOfThings, logItem);
 //print out wit calculations
