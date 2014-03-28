@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="26" selection-start="301" selection-end="301" vertical-scroll-proportion="0.23255815" vertical-offset="0" max-vertical-offset="903">
+            <state line="15" column="26" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="14" selection-start="255" selection-end="255" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="11" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.18771331" vertical-offset="0" max-vertical-offset="879">
               <folding />
             </state>
           </provider>
@@ -310,16 +310,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="14" selection-start="255" selection-end="255" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+        <state line="15" column="26" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="26" selection-start="301" selection-end="301" vertical-scroll-proportion="0.23255815" vertical-offset="0" max-vertical-offset="903">
+        <state line="11" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.18771331" vertical-offset="0" max-vertical-offset="879">
           <folding />
         </state>
       </provider>
