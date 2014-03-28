@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b51745-18e5-4f9f-a38d-e77aac8c051f" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Industry/js/scrip.js" afterPath="$PROJECT_DIR$/Functions_Industry/js/scrip.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Personal/js/script.js" afterPath="$PROJECT_DIR$/Functions_Personal/js/script.js" />
     </list>
     <ignored path="Finning_Marcus_Web Programming.iws" />
@@ -25,21 +26,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
+      <file leaf-file-name="scrip.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_Industry/js/scrip.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="28" selection-start="419" selection-end="419" vertical-scroll-proportion="0.28239202" vertical-offset="0" max-vertical-offset="903">
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="330">
+            <state line="3" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.049833886" vertical-offset="0" max-vertical-offset="903">
               <folding />
             </state>
           </provider>
@@ -60,8 +59,8 @@
       <list>
         <option value="$PROJECT_DIR$/Functions_worksheet/index.html" />
         <option value="$PROJECT_DIR$/Functions_worksheet/js/script.js" />
-        <option value="$PROJECT_DIR$/Functions_Industry/js/scrip.js" />
         <option value="$PROJECT_DIR$/Functions_Personal/index.html" />
+        <option value="$PROJECT_DIR$/Functions_Industry/js/scrip.js" />
         <option value="$PROJECT_DIR$/Functions_Personal/js/script.js" />
       </list>
     </option>
@@ -141,6 +140,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Functions_Personal" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -273,13 +304,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/scrip.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="903">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_worksheet/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="0" selection-start="346" selection-end="346" vertical-scroll-proportion="0.19933555" vertical-offset="0" max-vertical-offset="903">
@@ -294,12 +318,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/scrip.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="9" selection-start="9" selection-end="9" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Personal/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="28" selection-start="419" selection-end="419" vertical-scroll-proportion="0.28239202" vertical-offset="0" max-vertical-offset="903">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
+        <state line="3" column="0" selection-start="37" selection-end="37" vertical-scroll-proportion="0.049833886" vertical-offset="0" max-vertical-offset="903">
+          <folding />
         </state>
       </provider>
     </entry>
