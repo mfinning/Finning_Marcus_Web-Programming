@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b51745-18e5-4f9f-a38d-e77aac8c051f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Wacky/js/script.js" afterPath="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Industry/js/script.js" afterPath="$PROJECT_DIR$/Functions_Industry/js/script.js" />
     </list>
     <ignored path="Finning_Marcus_Web Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,19 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="26" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+            <state line="25" column="45" selection-start="563" selection-end="563" vertical-scroll-proportion="0.4152824" vertical-offset="0" max-vertical-offset="903">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.18771331" vertical-offset="0" max-vertical-offset="879">
+            <state line="16" column="14" selection-start="255" selection-end="255" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
               <folding />
             </state>
           </provider>
@@ -62,9 +62,9 @@
         <option value="$PROJECT_DIR$/Functions_Industry/js/scrip.js" />
         <option value="$PROJECT_DIR$/Functions_Personal/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Industry/index.html" />
-        <option value="$PROJECT_DIR$/Functions_Industry/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Industry/js/script.js" />
       </list>
     </option>
   </component>
@@ -143,6 +143,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="Functions_Wacky" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Industry" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Finning_Marcus_Web Programming" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Functions_Industry" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -296,30 +328,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
+    <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="7" selection-start="192" selection-end="192" vertical-scroll-proportion="-5.625" vertical-offset="0" max-vertical-offset="330">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="45" selection-start="579" selection-end="579" vertical-scroll-proportion="0.4152824" vertical-offset="0" max-vertical-offset="903">
+        <state line="16" column="14" selection-start="255" selection-end="255" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Wacky/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="26" selection-start="328" selection-end="328" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="315">
+        <state line="15" column="26" selection-start="328" selection-end="328" vertical-scroll-proportion="0.24916944" vertical-offset="0" max-vertical-offset="903">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Functions_Wacky/index.html">
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="200" selection-end="200" vertical-scroll-proportion="0.18771331" vertical-offset="0" max-vertical-offset="879">
+        <state line="16" column="14" selection-start="255" selection-end="255" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="330">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Functions_Industry/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="45" selection-start="563" selection-end="563" vertical-scroll-proportion="0.4152824" vertical-offset="0" max-vertical-offset="903">
           <folding />
         </state>
       </provider>

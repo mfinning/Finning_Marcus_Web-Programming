@@ -1,6 +1,6 @@
 //Finning_Marcus_function_industry
 
-//fuction set up
+
 
 //list set up
 var forEach = function (list, action) {
@@ -24,3 +24,19 @@ var doubleIt = function (item) {
 };
 //print it with the proper value dbld
 console.log(map(doubleIt, [2,4, 6, 8, 500]));
+
+//array2
+// initialize array
+var arr = [
+    "Hi",
+    "Hello",
+    "Bonjour"
+];
+
+// append new value to the array
+arr.push("Hola");
+
+// display all values
+for (var i = 0; i < arr.length; i++) {
+    alert(arr[i]);
+}
