@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="99b51745-18e5-4f9f-a38d-e77aac8c051f" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Personal/js/script.js" afterPath="$PROJECT_DIR$/Functions_Personal/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Functions_Personal/index.html" afterPath="$PROJECT_DIR$/Functions_Personal/index.html" />
     </list>
     <ignored path="Finning_Marcus_Web Programming.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -37,7 +37,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.13651878" vertical-offset="0" max-vertical-offset="879">
+            <state line="12" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="0.20477815" vertical-offset="0" max-vertical-offset="879">
               <folding />
             </state>
           </provider>
@@ -58,13 +58,13 @@
       <list>
         <option value="$PROJECT_DIR$/Functions_worksheet/index.html" />
         <option value="$PROJECT_DIR$/Functions_worksheet/js/script.js" />
-        <option value="$PROJECT_DIR$/Functions_Personal/index.html" />
         <option value="$PROJECT_DIR$/Functions_Industry/js/scrip.js" />
         <option value="$PROJECT_DIR$/Functions_Industry/index.html" />
         <option value="$PROJECT_DIR$/Functions_Wacky/index.html" />
         <option value="$PROJECT_DIR$/Functions_Wacky/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Industry/js/script.js" />
         <option value="$PROJECT_DIR$/Functions_Personal/js/script.js" />
+        <option value="$PROJECT_DIR$/Functions_Personal/index.html" />
       </list>
     </option>
   </component>
@@ -351,7 +351,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Functions_Personal/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="184" selection-end="184" vertical-scroll-proportion="0.13651878" vertical-offset="0" max-vertical-offset="879">
+        <state line="12" column="0" selection-start="288" selection-end="288" vertical-scroll-proportion="0.20477815" vertical-offset="0" max-vertical-offset="879">
           <folding />
         </state>
       </provider>
