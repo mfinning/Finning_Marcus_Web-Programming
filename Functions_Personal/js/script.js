@@ -10,12 +10,12 @@ var forEach = function (list, action) {
 var logItem = function (item) {
     console.log(item);
 };
-
+//list order
 var listOfThings = ["soap", "candle", "deer", "wine", "bread"];
 var anotherListOfThings = ["grapes", "apples", "beer", "pizza"];
 
 forEach(listOfThings, logItem);
-
+//print out wit calculations
 forEach(anotherListOfThings, function (item) {
     console.log(item + "'s length is " + item.length);
 });
