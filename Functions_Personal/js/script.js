@@ -1,18 +1,21 @@
-//Finning_Marcus_conditanal
-//else if
-var toSmall = 40;
-var toBig = 58;
-var justRight = 45;
-//if statement
-if(toSmall > toBig){
-    console.log("you can contue on");
-//else if
-}else if(toSmall > justRight){
-    console.log("need to be wached");
+//Finning_Marcus_function
+// function
 
-//else
-}else{
-    console.log("to bad so sad ");
-}
+var forEach = function (list, action) {
+    for (var i = 0; i < list.length; i++) {
+        action(list[i]);
+    }
+};
 
+var logItem = function (item) {
+    console.log(item);
+};
 
+var listOfThings = ["soap", "candle", "deer", "wine", "bread"];
+var anotherListOfThings = ["grapes", "apples", "beer", "pizza"];
+
+forEach(listOfThings, logItem);
+
+forEach(anotherListOfThings, function (item) {
+    console.log(item + "'s length is " + item.length);
+});
