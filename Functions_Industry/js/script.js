@@ -2,9 +2,9 @@
 
 //fuction set up
 
-
+//list set up
 var forEach = function (list, action) {
-    for (var i = 1; i < list.length; i++) {
+    for (var i = 0; i < list.length; i++) {
         action(list[i]);
     }
 };
@@ -16,11 +16,11 @@ var map = function (mappingFunction, list) {
     });
     return result;
 };
-//time it with loop
+//times it with loop
 var doubleIt = function (item) {
     if (typeof item === "number") {
         return item * 2;
     }
 };
-//print it
-console.log(map(doubleIt, [2,4, 6, 8, 20]));
+//print it with the proper value dbld
+console.log(map(doubleIt, [2,4, 6, 8, 500]));
