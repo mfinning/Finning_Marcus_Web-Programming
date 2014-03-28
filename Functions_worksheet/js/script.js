@@ -1,7 +1,7 @@
 function calculateSupply(age, numPerDay) {
-    var maxAge = 100;
+    var maxAge = 60;
     var totalNeeded = (numPerDay * 365) * (maxAge - age);
-    var message = 'You will need ' + totalNeeded + ' cups of tea to last you until the ripe old age of ' + maxAge;
+    var message = 'You will need ' + totalNeeded + ' cups of soup to last you until the ripe old age of ' + maxAge;
     console.log(message);
 }
 
